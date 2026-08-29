@@ -1,6 +1,8 @@
 def func():
-   a=5
-   b=4
-   return c
+    a = 5
+    b = 4
+    c = a + b
+    return c
 
-func()
+
+ans = func()
